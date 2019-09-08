@@ -2,4 +2,4 @@ greeting:
   message: Hello World!
   
 server:
-    port: 8081
+    port: 8083
