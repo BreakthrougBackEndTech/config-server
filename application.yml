@@ -1,5 +1,2 @@
 greeting:
   message: Hello World update!
-  
-server:
-    port: 8083
